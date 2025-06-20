@@ -4,12 +4,12 @@
 Computer science student at amrita vishwa vidyapeetham<br/>
 I create themed websites to stay consistent<br/>
 
-languages i work with
-.python,c
-.HTML,CSS,Java Script
+languages i work with<br/>
+.python,c<br/>
+.HTML,CSS,Java Script<br/>
 
-learing programs:
-.Figma
-.Jitter
+learing programs:<br/>
+.Figma<br/>
+.Jitter<br/>
 
 
