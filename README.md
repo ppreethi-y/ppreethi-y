@@ -8,7 +8,7 @@ languages i work with<br/>
 .python,c<br/>
 .HTML,CSS,Java Script<br/>
 
-learing programs:<br/>
+learning programs:<br/>
 .Figma<br/>
 .Jitter<br/>
 
