@@ -7,6 +7,7 @@ I create themed websites to stay consistent<br/>
 languages i work with<br/>
 .python,c<br/>
 .HTML,CSS,Java Script<br/>
+.dbms
 
 learning programs:<br/>
 .Figma<br/>
